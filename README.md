@@ -249,4 +249,3 @@ This sequentially showcases:
 | **14** | **6 Hand-crafted Search Algorithms** | ✅ Complete | Linear, Binary (range), Jump (range), Interpolation (numeric), Exponential (range), and Chaining Hash Table in `algorithms/searching.py`. |
 | **15** | **Composite Filter Builder Tree** | ✅ Complete | Expression tree (`And`, `Or`, `Not`, `Condition`) with live visual preview in `core/filters.py` and `ui/filter_builder.py`. |
 | **16** | **Comprehensive Unit Tests** | ✅ Complete | 108 pytest unit tests passing in under 1 second in `tests/test_algorithms.py`. |
-"# DSA-Project1" 
